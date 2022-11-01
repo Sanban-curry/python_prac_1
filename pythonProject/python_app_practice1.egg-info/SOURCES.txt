@@ -1,0 +1,9 @@
+count.py
+main.py
+reccomend.py
+roboter.py
+setup.py
+python_app_practice1.egg-info/PKG-INFO
+python_app_practice1.egg-info/SOURCES.txt
+python_app_practice1.egg-info/dependency_links.txt
+python_app_practice1.egg-info/top_level.txt

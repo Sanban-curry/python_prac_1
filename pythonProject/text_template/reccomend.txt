@@ -1,0 +1,11 @@
+＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
+
+私のおすすめのレストランは $restaurant です。
+
+My recommend is $restaurant .
+
+このレストランは好きですか？ [Yes/No]
+
+Do you like this restaurant? [y/n]
+
+＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃＃
